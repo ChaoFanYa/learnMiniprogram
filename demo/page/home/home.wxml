@@ -1,0 +1,4 @@
+<!--page/home/home.wxml-->
+<view class="viewClass">
+  <text>let's go</text>
+</view>
